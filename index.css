@@ -13,7 +13,7 @@
             background-color: #f0f0f0;
         }
         .container {
-            max-width: 800px;
+            max-width: 500px;
             margin: 20px auto;
             padding: 20px;
             background-color: #fff;
@@ -30,7 +30,7 @@
         .btn {
             display: inline-block;
             padding: 10px 20px;
-            background-color: #007bff;
+            background-color: #ca7387;
             color: #fff;
             text-decoration: none;
             border-radius: 5px;
@@ -41,7 +41,7 @@
         }
         /* Form Styles */
         form {
-            margin-top: 20px;
+            margin-top: 25px;
         }
         input[type="text"],
         input[type="email"],
